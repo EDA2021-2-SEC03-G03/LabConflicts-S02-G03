@@ -1,3 +1,7 @@
+Estudiante 1: María Alejandra Estrada García - m.estradag@uniandes.edu.co - código: 202021060
+
+Estudiante 2: Santiago Martínez Nova - s.martinezn@uniandes.edu.co - código: 202112020
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
