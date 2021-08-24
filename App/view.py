@@ -81,7 +81,6 @@ while True:
 
         # TODO: Modificación de Est-1 en el Lab 2
 
-
         # TODO: Modificación de Est-2 en el Lab 2
         
         print('Último libro cargado: ' + str(lt.lastElement(books)))
